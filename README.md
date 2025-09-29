@@ -57,6 +57,8 @@ mini-produtos/
 Modelo criado no **MySQL Workbench**:  
 
 ![DER](docs/der.png)
+<img width="540" height="399" alt="image" src="https://github.com/user-attachments/assets/1a9d9fd9-cd0d-4f68-8193-7fc008d2ae80" />
+
 
 ---
 
