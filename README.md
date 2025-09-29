@@ -74,8 +74,9 @@ http://localhost/mini-produtos/database/bootstrap.php
 Isso cria automaticamente o banco de dados e tabelas.  
 5. Depois acesse o sistema:  
 http://localhost/mini-produtos/
-
 (O `index.php` redireciona para a tela de login).  
+
+
 6. Faça login com o usuário admin criado pelo bootstrap ou registre um novo usuário.
 ---
 
