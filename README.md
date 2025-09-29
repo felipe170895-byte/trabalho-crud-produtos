@@ -49,7 +49,6 @@ mini-produtos/
 
 ## 🖥️ Protótipos no Figma
 👉 Cole aqui o link do seu Figma  
-- Prints estão disponíveis em `/docs/prints/`
 
 ---
 
