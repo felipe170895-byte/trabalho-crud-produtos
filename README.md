@@ -28,8 +28,6 @@ Ele aplica conceitos de:
 ---
 
 ## 🗂️ Estrutura do Projeto
-
-
 mini-produtos/
 │
 ├── app/ # Telas principais (Dashboard, Produtos, Fornecedores, Selecionar, Cesta, Usuários)
@@ -46,7 +44,6 @@ mini-produtos/
 ├── database/ # Bootstrap do banco de dados
 ├── docs/ # Documentos (DER, prints do Figma)
 └── README.md # Documentação
-
 
 ---
 
